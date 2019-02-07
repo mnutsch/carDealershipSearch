@@ -1,5 +1,5 @@
 # carDealershipSearch
-This is a UI concept for searching for a vehicle by different attributes. (under development)
+This is a UI concept for searching for a vehicle by different attributes.
 
 Instructions:
 - Run "npm install" in the main directory. This will install the express web server.
