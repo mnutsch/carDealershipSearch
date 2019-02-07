@@ -1,4 +1,4 @@
-# carDealershipSearch
+# Car Dealership Search
 This is a UI concept for searching for a vehicle by different attributes.
 
 Instructions:
