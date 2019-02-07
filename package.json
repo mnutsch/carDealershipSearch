@@ -1,0 +1,23 @@
+{
+  "name": "cardealershipsearch",
+  "version": "1.0.0",
+  "description": "This is a UI search feature for a car dealership.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnutsch/carDealershipSearch.git"
+  },
+  "author": "Matt Nutsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnutsch/carDealershipSearch/issues"
+  },
+  "homepage": "https://github.com/mnutsch/carDealershipSearch#readme",
+  "dependencies": {
+    "angular": "^1.7.7",
+    "express": "^4.16.4"
+  }
+}
