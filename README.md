@@ -9,7 +9,7 @@ Instructions:
 
 Additional Notes:
 - Modify the JSON array in /public/js/data.js to alter the vehicle data.
-- An optional field "image" can be added to the JSON array to provide an images of the cars. The value of this - field should be a URL to the image. If no "image" URL is present in the JSON data then a placeholder image will be displayed.
+- An optional field "image" can be added to the JSON array to provide images of the cars. The value of this field should be a URL to the image. If no "image" URL is present in the JSON data then a placeholder image will be displayed.
 
 See live example at: http://www.mattnutsch.com/carsearch/
 
